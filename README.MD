@@ -1,9 +1,9 @@
 
-<div align="center"><img src="https://64.media.tumblr.com/e8ce1a262fa4bf6f22f48164d6fb38ba/40fe551c299c7ade-0e/s1280x1920/6757a7fb508a11608e28869bb669a1bbb7a78c5c.png" width=350></div><br>
+<div align="center"><img src="https://media.discordapp.net/attachments/1464851181691080859/1506224407075623052/Screenshot_335.png?ex=6a0d7c4a&is=6a0c2aca&hm=65576464842514ca31466331ba2b81c06d6999a94595e5f62c8fa762e0f38f85&=&format=webp&quality=lossless&width=901&height=465" width=350></div><br>
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=cataclysmtick&color=FCBF49&label=fat+and+ugly+and+really+really+stupid&abbreviated=true) </div> 
+  ![](https://komarev.com/ghpvc/?username=cataclysmtick&color=6FCF97&label=wishes&abbreviated=true) </div> 
 
 
 

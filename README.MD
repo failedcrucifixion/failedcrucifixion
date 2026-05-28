@@ -6,5 +6,5 @@
 
 <div align="center">
 
-  [rentry](https://rentry.co/SIMPLETERMSFOR427)[github](https://guthib.com/) </div>
+  [rentry](https://rentry.co/SIMPLETERMSFOR427) [guthib](https://guthib.com/) </div>
 
